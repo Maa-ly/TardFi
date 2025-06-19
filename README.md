@@ -1,14 +1,14 @@
-# 🛢️ TardFi  
+# TardFi  
 **Where Oil Meets the Blockchain**
 
 ---
 
-## 🎯 Overview  
+## Overview  
 **TardFi** is a decentralized platform that bridges oil trading with blockchain technology using Real World Assets (RWA), Zero-Knowledge Proofs (ZK), AI, and smart contracts.
 
 ---
 
-## 🖥️ Frontend  
+## Frontend  
 - Clean, user-friendly UI  
 - Displays:
   - Market listings  
@@ -18,17 +18,17 @@
 
 ---
 
-## 🔗 Smart Contracts  
+## Smart Contracts  
 
-### 🛢️ Real World Assets (RWA)  
+### Real World Assets (RWA)  
 - Implemented using **ERC-1155** standard  
 - Asset minting, transfers, and rights management  
 
-### 🧠 Chainlink Integration  
+### Chainlink Integration  
 - **CCIP**: Cross-chain interoperability  
 - **Automation**: Task scheduling, ownership checks  
 
-### 🏪 Marketplace  
+### Marketplace  
 - Functions:
   - `list()` - List oil-backed asset for sale  
   - `buy()` - Purchase listed asset  
@@ -38,19 +38,19 @@
   - Rights transfer or resale logic  
   - Sale types: Drop, Raise  
 
-### ✅ ZK Verification  
+### ZK Verification  
 - Zero-Knowledge logic for user and transaction validation  
 - Private verification without exposing sensitive data  
 
 ---
 
-## 🔒 ZK  
+## ZK  
 - Custom **zk-SNARK Circuit**  
 - Verifies ownership or eligibility before interacting with sensitive features  
 
 ---
 
-## 🤖 AI  
+## AI  
 - **AI-led features**:
   - Store/manage multiple assets across chains  
   - Trader AI bots for oil market participation  
@@ -58,14 +58,14 @@
 
 ---
 
-## 🚀 MVP Features  
-- ✅ AI functionality  
-- ✅ ZK verification logic  
-- ✅ Frontend UI  
+## MVP Features  
+- AI functionality  
+- ZK verification logic  
+- Frontend UI  
 
 ---
 
-## 👥 Team & Tasks  
+## Team & Tasks  
 
 | Name   | Role              | Responsibility            |
 |--------|-------------------|---------------------------|
